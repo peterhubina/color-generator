@@ -1,4 +1,4 @@
 # Color Generator
 
 ##Links
-[Live Project](https://peterhubina.github.io/color-generator/)
+- Live Site URL: [Live Site URL](https://peterhubina.github.io/tip-calculator/)
