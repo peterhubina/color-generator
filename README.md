@@ -1,3 +1,4 @@
-#### Color Generator
+# Color Generator
 
-[Live Site URL](https://peterhubina.github.io/color-generator/)
+## Links
+- Live Site URL: [Live Site URL](https://peterhubina.github.io/color-generator/)
