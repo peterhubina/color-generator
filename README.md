@@ -1,3 +1,3 @@
-#### Values JS
+#### Color Generator
 
-[values.js](https://github.com/noeldelgado/values.js)
+[Live Site URL](https://peterhubina.github.io/color-generator/)
